@@ -19,6 +19,7 @@ const availablePlugins = [
   'asyncDoExpressions',
   'decimal',
   'decorators',
+  'decorators-legacy',
   'doExpressions',
   'exportDefaultFrom',
   'functionBind',
